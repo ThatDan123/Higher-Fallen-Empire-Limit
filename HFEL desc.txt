@@ -1,0 +1,23 @@
+2.4.0 compatible
+
+This mod increases the maximum amount of fallen empires on your maps to 13.
+
+
+Vanilla-----------------Mod
+
+Huge     5-------> 13
+Large     4------->8
+Medium 3--------> 8
+Small     2-------->4
+Tiny       1-------->2
+
+
+Overrides the setup_scenarios folder completely. Not compatible with mods that do the same.
+
+Known bug: Using random amounts of fallen empires limits the number to vanilla values.
+
+Needs to be in [b]use with mods that add more fallen empires[/b] as there are only 5 vanilla fallen empires.
+
+For more varied fallen empires, try looking at my other mod:  [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1812858232]Extra Fallen Empires[/url]. That adds 8 more fallen empires.
+
+For Bigger Galaxies, 1250 and 1500 stars, try looking at my other mod: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1831885384] Higher Fallen Empire Limit Bigger Galaxies[/url]
